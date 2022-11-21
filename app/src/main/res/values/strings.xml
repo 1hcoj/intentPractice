@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MidtermTest</string>
+    <string name="print_message">네 잘하셨습니다!!</string>
+    <string name="exBtnMsg">환전</string>
+    <string name="editHintMsg">환전할 금액(원) 입력</string>
+    <string name="txtViewMsg">환전 금액(원)</string>
+    <string name="exchange_rate">1428.69</string>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+    </string-array>
+</resources>
